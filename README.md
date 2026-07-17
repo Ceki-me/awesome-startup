@@ -168,6 +168,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 
 # Marketing Tools
 
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for marketing automation, social media management, and web scraping. MCP-native, DevTools protocol, SDKs for Python/JS.
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
 - [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
 - [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
